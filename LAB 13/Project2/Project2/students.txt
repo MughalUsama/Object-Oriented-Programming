@@ -1,0 +1,9 @@
+4
+221 Sherlock Holmes
+85 67 34 43 43 
+567 Dr.John H.Watson
+56 43 35 87 65
+808 Albert
+34 54 65 34 32
+665 Donald
+65 32 12 6 78
